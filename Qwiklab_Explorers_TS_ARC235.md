@@ -1,4 +1,4 @@
-# Arcade Hero: Enter the Cloud Function Python || [ARC235]((https://www.cloudskillsboost.google/focuses/98837?parent=catalog) ||
+# Arcade Hero: Enter the Cloud Function Python || [ARC235](https://www.cloudskillsboost.google/focuses/98837?parent=catalog) ||
 
 # # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
